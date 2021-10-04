@@ -1,7 +1,7 @@
 # UAM | 2021 | Pracownia programowania
 Project na zajęcia z Pracownia Programowania
 
-> Zadania
+## Zadania
 
 Stworzenie programu, który będzie odczytywał dane z pliku / konsoli i zapisywał je do pliku.
 
